@@ -1,6 +1,6 @@
 {
-    "name": "goalgorilla/social_template",
-    "description": "Social project template for composer based Open Social projects.",
+    "name": "chibi03/social_template",
+    "description": "Social project template for composer based Open Social projects. Limited to specific version (currently 1.19).",
     "type": "project",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
